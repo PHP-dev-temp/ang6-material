@@ -1,0 +1,5 @@
+.example-header-image {
+  /*background-image: url('/material/assets/images/pav.jpg');*/
+  background-image: url('/assets/images/pav.jpg');
+  background-size: cover;
+}
